@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/r75/bmw_bike_tires_c"
+	"$normalmap" "models/r75/bmw_bike_tires_n"
+	"$surfaceprop" "Metal"
+}

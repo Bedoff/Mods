@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/halo_ce/chronopolis/bulldog/wheels"
+	"$basealphaenvmapmask" 1
+	"$detail" "models/halo_ce/chronopolis/bulldog/detail_corroded_metal_light"
+	"$detailscale" 5
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.5
+}

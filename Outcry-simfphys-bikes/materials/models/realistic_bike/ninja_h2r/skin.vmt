@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/realistic_bike/ninja_h2r/skin"
+	"$nodecal" "1"
+	"$bumpmap" "models/realistic_bike/ninja_h2r/skin_nm"
+    $envmapfresnel "1"
+	"$normalmapalphaenvmapmask" "1"
+    $phong "1"
+    $phongexponent "37"
+    $phongboost ".2"
+    $phongfresnelranges "[.5 .75 .75]"
+    "$colorfix" "{100 100 100}"
+}

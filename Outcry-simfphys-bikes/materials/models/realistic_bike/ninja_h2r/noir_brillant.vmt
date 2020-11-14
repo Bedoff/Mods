@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/realistic_bike/ninja_h2r/plastique"
+	"$nodecal" "1"
+	"$phong" 1
+	"$phongexponent" 10
+	"$phongboost"	0.8
+	"$phongfresnelranges" "[1 1 1]"
+	"$rimlight" 1
+	"$rimlightexponent" "10"
+	"$rimlightboost" 0.5
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.15 0.15 0.15]"
+	"$normalmapalphaenvmapmask" 0
+	"$colorfix" "{255 255 255}"
+	"$carpenisenabled" "1"
+	Proxies // proxies are listed inside this block
+	{
+		Equals // a proxy which produces a penis
+		{
+			srcVar1 $carpenisenabled
+			resultVar	$color // The shader parameter to be manipulated
+
+		}
+	}
+}
+

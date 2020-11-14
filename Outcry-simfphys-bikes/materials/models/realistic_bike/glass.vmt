@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/realistic_bike/glass_Base"
+
+	$envmap			env_cubemap
+}
